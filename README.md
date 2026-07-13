@@ -1,1 +1,3 @@
-# Project_1
+# Employee Turnover Predictor 
+Its a  Baseline Logistic regression model that is trained on a dataset called Employee_turnover.csv
+it has several features such as Distance from home, salary, Bonus, Educaton level, Department work life balance job satisfication etc, and one target value called Employee turnover. All features were feature scaled by standard scaler, lastly the model was improved by applying lasso and ridge regression.
